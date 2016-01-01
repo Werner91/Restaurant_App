@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="bezahl_array">
+        <item>Bezahlmethode</item>
+        <item>Bargeld</item>
+        <item>Kreditkarte</item>
+        <item>EC-Karte</item>
+        <item>PayPal</item>
+    </string-array>
+
+    <string-array name="kategorie_auswahl">
+        <item>Getränke</item>
+        <item>Vorspeise</item>
+        <item>Hauptgang</item>
+        <item>Nachtisch</item>
+    </string-array>
+
+    <string-array name="getraenke_auswahl">
+        <item>Mineralwasser</item>
+        <item>Radler</item>
+        <item>Cola</item>
+        <item>Fanta</item>
+        <item>Sprite</item>
+    </string-array>
+
+    <string name="action_restaurant">Bestellung</string>
+
+
+    <string name="bezahl_spinner_nothing_selected">Bezahlmethode</string>
+
+    <string name="weiter_button">Weiter</string>
+    <string name="title_activity_getraenke_view">Getränke</string>
+    <string name="title_activity_vorspeise_view">Vorspeisen</string>
+
+</resources>
